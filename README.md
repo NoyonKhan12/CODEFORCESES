@@ -1,2 +1,2 @@
 # CODEFORCESES
-This repo got the codeforces problem solutions done by me.
+Collection of Codeforces contest problems solutions done by me.
