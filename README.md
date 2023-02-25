@@ -1,2 +1,2 @@
 # CODEFORCESES
-Collection of Codeforces contest problems solutions done by me.
+Collections of Codeforces contest problems solutions that I have been participated.
